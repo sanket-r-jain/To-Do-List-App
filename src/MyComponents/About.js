@@ -3,8 +3,9 @@ import React from 'react'
 export const About = () => {
     return (
         <div>
-            This is an about component 
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum corporis odio, nesciunt sed eveniet, nemo amet, dignissimos magnam itaque ipsam possimus. Inventore vitae, perferendis harum quas cupiditate adipisci repellendus tempore asperiores at consequatur quos?</p>
+            This is a simple to-do list application.
+            <p>Users can add and keep a track of all their pending tasks using this tool. One they have completed a certain task, they can remove it from the list.</p>
+            <p>This simple tool has been created by <a href="https://github.com/sanket-r-jain">Sanket Jain</a>. Please feel free to reach out via <a href="https://www.linkedin.com/in/sanket--jain/">LinkedIn</a>, if you would like to share any feedback.</p>
         </div>
     )
 }
